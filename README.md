@@ -1,1 +1,1 @@
-Beginner projects using pandas, numpy, sklearn, matplotlib, xgboost, 
+Beginner projects using pandas, numpy, sklearn, matplotlib, xgboost etc
